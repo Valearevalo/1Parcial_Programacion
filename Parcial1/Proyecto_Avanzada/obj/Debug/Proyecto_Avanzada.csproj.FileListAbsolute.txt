@@ -1,0 +1,9 @@
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\bin\Debug\Proyecto_Avanzada.exe.config
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\bin\Debug\Proyecto_Avanzada.exe
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\bin\Debug\Proyecto_Avanzada.pdb
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\obj\Debug\Proyecto_Avanzada.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\obj\Debug\Proyecto_Avanzada.exe
+C:\Users\usuario\Music\Parcial1\Proyecto_Avanzada\obj\Debug\Proyecto_Avanzada.pdb
+C:\Users\usuario\Documents\GitHub\1Parcial_Programacion\Parcial1\Proyecto_Avanzada\bin\Debug\Proyecto_Avanzada.exe.config
+C:\Users\usuario\Documents\GitHub\1Parcial_Programacion\Parcial1\Proyecto_Avanzada\obj\Debug\Proyecto_Avanzada.exe
+C:\Users\usuario\Documents\GitHub\1Parcial_Programacion\Parcial1\Proyecto_Avanzada\obj\Debug\Proyecto_Avanzada.pdb
